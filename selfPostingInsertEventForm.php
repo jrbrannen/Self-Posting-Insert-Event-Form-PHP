@@ -130,7 +130,7 @@
             
                 }else{  // Displays form if form has not been submitted (view)
             ?>
-            <form name="eventsForm" id="eventsForm" method="post" action="selfPostingInputEventForm.php">
+            <form name="eventsForm" id="eventsForm" method="post" action="selfPostingInsertEventForm.php">
 
                 <div class="form-group">
                     <label for="events_name">Event Name: </label>
