@@ -173,7 +173,7 @@
                 </div>
                     
                 <div class="text-center">
-                    <input type="submit" name="submit" id="submit" value="AddEvent">
+                    <input type="submit" name="submit" id="submit" value="Add Event">
                     <input type="reset" name="Reset" id="button" value="Clear Form">
                 </div>
             </form>
